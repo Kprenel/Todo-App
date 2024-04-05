@@ -2,8 +2,6 @@
 
 > Simples todo para treinar manipulação de DOM
 
-![Preview](/imgs/todo-img.png)
-
 - objetivos: 
     - todo-list 
     - pouco css(**foco no js**)
