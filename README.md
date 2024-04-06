@@ -1,14 +1,21 @@
 # Todo-App
 
-> Simples todo para treinar manipulação de DOM
+**Simples todo para treinar manipulação de DOM**
 
-- objetivos: 
-    - todo-list 
-    - pouco css(**foco no js**)
+Ainda está em desenvolvimento
 
-- aprendizados: 
-    - app dentro de classe
-    - melhor **manipulação do DOM**
-    - evitar renderizações desncessárias
+Features:
+- [ ] Ordenação
+- [ ] Estilos em links
+
+
+Objetivos:
+- todo-list 
+- pouco css(**foco no JS**)
+
+Aprendizados:
+- app dentro de classe
+- melhor **manipulação do DOM**
+- evitar renderizações desncessárias
 
 [Veja no codepen](https://codepen.io/Kprenel___/pen/zYXPBNm)
