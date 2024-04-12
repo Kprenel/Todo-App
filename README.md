@@ -4,6 +4,8 @@
 
 Ainda está em desenvolvimento
 
+[Versão com React.js](https://github.com/Kprenel/Todo-App-React.js)
+
 Features:
 - [ ] Ordenação
 - [ ] Estilos em links
